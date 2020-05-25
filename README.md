@@ -1,1 +1,1 @@
-# JetBrains
+# JetBrains Hyperskill - Java Developer Track
